@@ -7,6 +7,7 @@ public class POC {
 		String name ="POC";
 		int i = 10;
 		int j = 20;
+		String d ="asd";
 		int sum = i+j;
 	}
 
